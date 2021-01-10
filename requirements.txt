@@ -1,0 +1,7 @@
+Flask==1.1.2
+opencv_python==4.5.1.48
+scipy==1.6.0
+numpy==1.19.5
+Pillow==8.1.0
+pytesseract==0.3.7
+ftfy==5.8
