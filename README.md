@@ -1,4 +1,4 @@
-PAN-OCR will fetch the relavent information like Name, Father name, PAN number, DOB and face image from the pancard.
+PAN-OCR will fetch the relavent information like Name, Father name, PAN number, DOB and face image from the user uploaded pancard.
 
 Stpes to setup project.
 1. Clone the repository https://github.com/hareshkat/pan_ocr.git
